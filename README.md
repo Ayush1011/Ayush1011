@@ -2,7 +2,7 @@
 
 
 # TECHNICAL SKILLS 	
-<h3>Computer Programming Languages</h3>: C, C++, JAVA,Python,Kotlin(android)  
+<b>Computer Programming Languages</b>: C, C++, JAVA,Python,Kotlin(android)  
 
 <h3>Frameworks</h3> - MEAN Stack,MERN stack,React Native,Redux,  
 

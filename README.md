@@ -1,9 +1,7 @@
 ### Hola Fellow Developers👋
 
-<!--
-**Ayush1011/Ayush1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# TECHNICAL SKILLS 	
+TECHNICAL SKILLS 	
 Computer Programming Languages: C, C++, JAVA,Python,Kotlin(android)  
 
 Frameworks - MEAN Stack,MERN stack,React Native,Redux,  

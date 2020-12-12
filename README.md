@@ -4,14 +4,14 @@
 # TECHNICAL SKILLS 	
 <b>Computer Programming Languages</b>: C, C++, JAVA,Python,Kotlin(android)  
 
-<h3>Frameworks</h3> - MEAN Stack,MERN stack,React Native,Redux,  
+<b>Frameworks</b> - MEAN Stack,MERN stack,React Native,Redux,  
 
-<h3>Website Development</h3>: HTML, CSS (Griddle Framework), Bootstrap, XML, JavaScript, ES6  
+<b>Website Development</b>: HTML, CSS (Griddle Framework), Bootstrap, XML, JavaScript, ES6  
 
-<h3>Mobile App Development</h3>: Android ,Hybrid Application  
+<b>Mobile App Development</b>: Android ,Hybrid Application  
 
-<h3>Database & Analysis tools</h3>: MongoDB,Firebase,MySQL  
+<b>Database & Analysis tools</b>: MongoDB,Firebase,MySQL  
 
-<h3>Operating System</h3>:Linux/Unix  
+<b>Operating System</b>:Linux/Unix  
 
 

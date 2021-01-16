@@ -14,7 +14,7 @@ You can take an overview of my technology stack and highlighted project here.
 # TECHNICAL SKILLS 	
 <b>Computer Programming Languages</b> - C, C++, JAVA,Python,Kotlin(android)  
 
-<b>Frameworks</b> - MEAN Stack,MERN stack,React Native,Redux,  
+<b>Frameworks & Libraries</b> - React Native,React js,Express js,Redux,
 
 <b>Website Development</b> - HTML, CSS (Griddle Framework), Bootstrap,React js,JavaScript, ES6  
 
@@ -23,5 +23,7 @@ You can take an overview of my technology stack and highlighted project here.
 <b>Database & Analysis tools</b> - MongoDB,Firebase,MySQL  
 
 <b>Operating System</b> - Linux/Unix  
+
+<b>Devops & Management tools</b> - Github,Docker,Aws
 
 

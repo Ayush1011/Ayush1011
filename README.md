@@ -1,6 +1,16 @@
 ### Hola Fellow Developers👋
 
 
+### Hii,
+My name is <b>Ayush Kumar</b>, I am an enthusiastic software developer. I am very passionate about my work and I am experienced with demonstrated history of working in field of Full Stack Development with strong command in managing live projects as freelancer, leading team with result-oriented attitude.
+<ol>
+  <li>Email : Ayushraichand1@gmail.com</li>
+  <li>Linkedin Profile : https://www.linkedin.com/in/ayush-kumar-1011/</li>
+ </ol? 
+You can take an overview of my technology stack and highlighted project here.
+
+
+
 # TECHNICAL SKILLS 	
 <b>Computer Programming Languages</b> - C, C++, JAVA,Python,Kotlin(android)  
 

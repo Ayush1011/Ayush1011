@@ -10,7 +10,7 @@ You can take an overview of my technology stack and highlighted project here.
 
 
 
-# TECHNICAL SKILLS 	
+## TECHNICAL SKILLS 	
 <b>Computer Programming Languages</b> - C, C++, JAVA,Python,Kotlin(android)  
 
 <b>Frameworks & Libraries</b> - React Native,React js,Express js,Redux,

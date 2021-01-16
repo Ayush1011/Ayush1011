@@ -6,7 +6,7 @@ My name is <b>Ayush Kumar</b>, I am an enthusiastic software developer. I am ver
 <ol>
   <li>Email : Ayushraichand1@gmail.com</li>
   <li>Linkedin Profile : https://www.linkedin.com/in/ayush-kumar-1011/</li>
- </ol? 
+ </ol>
 You can take an overview of my technology stack and highlighted project here.
 
 
